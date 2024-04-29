@@ -16,7 +16,7 @@ Submit the following:
 
 ## Execution
 
-For this assignment, I decided to use a Kaggle dataset with the results of a mental health survey (see https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset). After removing the date column, which I deemed not useful for my purposes, and adding a patient_id column to give each row a unique identifier, I wrote the Python code in this repository to store the data into a MongoDB database. For the latter portion of the project involving models and visualizations, I elected to use MongoDB Atlas to query the data directly from the database and create 3 visualizations. As such, functions to retrieve data from the database and to display visualizations was not necessary for this repository.
+For this assignment, I decided to use a Kaggle dataset with the results of a mental health survey (see https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset). After removing the date column, which I deemed not useful for my purposes, and adding a patient_id column to give each row a unique identifier, I wrote the Python code in this repository to store the data into a MongoDB database. For the latter portion of the project involving models and visualizations, I elected to use MongoDB Atlas to query the data directly from the database and create 3 visualizations. As such, functions to retrieve data from the database and to display visualizations were not necessary for this repository.
 
 ## Set-Up
 
